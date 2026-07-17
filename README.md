@@ -66,7 +66,7 @@ The five systems do not repeat the same idea. They serve different people, prope
     <td width="50%" valign="top">
       <img src="assets/rental.svg" width="100%" alt="Shanghai Rental Agent" />
       <h3>04 · Shanghai Rental Agent</h3>
-      <p><strong>Rental discovery and operational support for Shanghai.</strong></p>
+      <p><strong>Rental discovery support for Shanghai.</strong></p>
       <p>The agent connects housing needs, budget, commute preferences, location services, property information, and safety-aware operational workflows for renters and real-estate teams.</p>
       <p><strong>Users:</strong> renters, brokers, and rental operators<br/><strong>Stage:</strong> leasing, matching, and service operations</p>
       <p>
