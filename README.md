@@ -16,13 +16,7 @@
 
 ## One lab, five perspectives
 
-This collection grew from my month-long internship at **Fudan University’s Zhangjiang Institute**, where I worked under **Suli Ye’s guidance** to explore how AI can support practical real-estate workflows.
-
-The five systems do not repeat the same idea. They serve different people, property types, and stages of the value chain—from identifying promising regions before land acquisition, to planning a site, designing a home, navigating the rental market, and supporting better daily life in silver communities.
-
-<div align="center">
-  <img src="assets/lifecycle.svg" width="100%" alt="Five projects mapped across the real-estate lifecycle" />
-</div>
+This collection grew from my month-long internship at **Fudan University’s Zhangjiang Institute**, where I worked under **Suli Ye’s guidance** to explore how AI can support practical real-estate workflows. The five systems do not repeat the same idea. They serve different people, property types, and stages of the value chain—from identifying promising regions before land acquisition, to planning a site, designing a home, navigating the rental market, and supporting better daily life in silver communities.
 
 ## Project atlas
 
