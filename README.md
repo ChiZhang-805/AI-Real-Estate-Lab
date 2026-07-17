@@ -90,24 +90,8 @@ The five systems do not repeat the same idea. They serve different people, prope
   </tr>
 </table>
 
-## What connects the collection
-
-| Principle | How it appears across the projects |
-|---|---|
-| **Different users, one industry** | Developers, investment teams, designers, households, renters, brokers, older adults, and community operators. |
-| **AI with verifiable foundations** | LLMs support understanding and explanation; geometry, constraints, scoring, evidence, and safety-critical rules remain explicit. |
-| **From insight to action** | Each system is designed around a real decision or workflow rather than a standalone model demonstration. |
-| **Public, interactive prototypes** | Every project has an independent source repository and a browser-accessible Render deployment. |
-
 ## Explore the collection
 
 The buttons above open each source repository and live prototype. Render free instances may sleep when inactive, so the first visit can take several seconds to wake up.
 
 These projects are research and product prototypes. They do not replace professional planning, investment, legal, structural, medical, or community-care advice.
-
----
-
-<p align="center">
-  Created by <a href="https://chizhang-805.github.io/"><strong>Chi Zhang</strong></a><br/>
-  Engineering AI systems that make complex workflows visible, testable, and easier to understand.
-</p>
