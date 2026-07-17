@@ -44,7 +44,7 @@ The five systems do not repeat the same idea. They serve different people, prope
       <h3>02 · LandWeaver Agent</h3>
       <p><strong>Site planning, feasibility, and investment reasoning.</strong></p>
       <p>LandWeaver turns parcel boundaries, planning constraints, building prototypes, and economic assumptions into comparable site options with verifiable geometry and financial metrics.</p>
-      <p><strong>Users:</strong> acquisition, design-management, and concept teams<br/><strong>Stage:</strong> site planning and investment evaluation</p>
+      <p><strong>Users:</strong> household and designer<br/><strong>Stage:</strong> site planning and investment evaluation</p>
       <p>
         <a href="https://github.com/ChiZhang-805/LandWeaver-Agent"><img src="https://img.shields.io/badge/SOURCE-GITHUB-181717?style=flat-square&logo=github" alt="LandWeaver source" /></a>
         <a href="https://landweaver-web.onrender.com"><img src="https://img.shields.io/badge/OPEN-LIVE_DEMO-167DFF?style=flat-square&logo=render&logoColor=white" alt="LandWeaver live demo" /></a>
