@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="260" viewBox="0 0 800 260" role="img" aria-label="LandWeaver Agent — site planning and feasibility">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102a5c"/><stop offset="1" stop-color="#1d4ed8"/></linearGradient><pattern id="p" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#fff" stroke-opacity=".05"/></pattern></defs>
+  <rect width="800" height="260" rx="24" fill="url(#g)"/><rect width="800" height="260" rx="24" fill="url(#p)"/>
+  <g transform="translate(575 48)" fill="none" stroke="#bfdbfe" stroke-width="3"><path d="M15 147 70 95l53 23 68-77 45 30v76z" fill="#60a5fa" fill-opacity=".13"/><path d="M70 95V39l53-25v104M123 118V53l68-25v90M191 118V66"/><path d="M45 147V112h31v35M145 147V91h30v56M204 147V99h24v48"/></g>
+  <rect x="48" y="42" width="104" height="30" rx="15" fill="#fff" fill-opacity=".11"/><text x="66" y="63" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" letter-spacing="1.4">PLAN</text>
+  <text x="48" y="132" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="44" font-weight="800">LandWeaver</text><text x="48" y="174" fill="#d6e6ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">Site planning &amp; investment reasoning</text><text x="48" y="211" fill="#9ec2ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing=".5">GEOMETRY · CONSTRAINTS · OPTIONS · ECONOMICS</text>
+</svg>

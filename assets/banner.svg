@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="500" viewBox="0 0 1400 500" role="img" aria-labelledby="title desc">
+  <title id="title">AI x Real Estate Lab</title>
+  <desc id="desc">Five AI systems across one connected property lifecycle.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07152f"/>
+      <stop offset="0.48" stop-color="#13265f"/>
+      <stop offset="1" stop-color="#351c68"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#43d9bd"/>
+      <stop offset="0.5" stop-color="#5b8cff"/>
+      <stop offset="1" stop-color="#c66cff"/>
+    </linearGradient>
+    <radialGradient id="glowA">
+      <stop stop-color="#35d6bd" stop-opacity=".48"/>
+      <stop offset="1" stop-color="#35d6bd" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB">
+      <stop stop-color="#a855f7" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#fff" stroke-opacity=".055"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#000" flood-opacity=".25"/>
+    </filter>
+  </defs>
+  <rect width="1400" height="500" rx="34" fill="url(#bg)"/>
+  <rect width="1400" height="500" rx="34" fill="url(#grid)"/>
+  <circle cx="1120" cy="45" r="340" fill="url(#glowB)"/>
+  <circle cx="170" cy="480" r="310" fill="url(#glowA)"/>
+
+  <g transform="translate(86 74)">
+    <rect width="238" height="38" rx="19" fill="#fff" fill-opacity=".1" stroke="#fff" stroke-opacity=".18"/>
+    <circle cx="22" cy="19" r="6" fill="#43d9bd"/>
+    <text x="40" y="25" fill="#dce8ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">FUDAN · ZHANGJIANG</text>
+  </g>
+
+  <text x="86" y="205" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="82" font-weight="800" letter-spacing="-3">AI × REAL ESTATE</text>
+  <rect x="88" y="230" width="570" height="7" rx="3.5" fill="url(#accent)"/>
+  <text x="88" y="292" fill="#d7e5ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="500">Five systems. One connected property lifecycle.</text>
+  <text x="88" y="337" fill="#9fb4dd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">LAND INTELLIGENCE · SITE PLANNING · HOME DESIGN · RENTAL · SILVER COMMUNITIES</text>
+
+  <g transform="translate(86 390)" filter="url(#shadow)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">
+    <g transform="translate(0)"><rect width="202" height="52" rx="16" fill="#112348" stroke="#43d9bd" stroke-opacity=".5"/><circle cx="27" cy="26" r="10" fill="#43d9bd"/><text x="49" y="32" fill="#fff">DISCOVER</text></g>
+    <g transform="translate(218)"><rect width="202" height="52" rx="16" fill="#112348" stroke="#5b8cff" stroke-opacity=".55"/><circle cx="27" cy="26" r="10" fill="#5b8cff"/><text x="49" y="32" fill="#fff">PLAN</text></g>
+    <g transform="translate(436)"><rect width="202" height="52" rx="16" fill="#112348" stroke="#a855f7" stroke-opacity=".55"/><circle cx="27" cy="26" r="10" fill="#a855f7"/><text x="49" y="32" fill="#fff">DESIGN</text></g>
+    <g transform="translate(654)"><rect width="202" height="52" rx="16" fill="#112348" stroke="#fb923c" stroke-opacity=".55"/><circle cx="27" cy="26" r="10" fill="#fb923c"/><text x="49" y="32" fill="#fff">RENT</text></g>
+    <g transform="translate(872)"><rect width="248" height="52" rx="16" fill="#112348" stroke="#2dd4bf" stroke-opacity=".55"/><circle cx="27" cy="26" r="10" fill="#2dd4bf"/><text x="49" y="32" fill="#fff">LIVE WELL</text></g>
+  </g>
+
+  <g transform="translate(1135 88)" fill="none" stroke="#fff" stroke-opacity=".23" stroke-width="2">
+    <path d="M0 210V70l64-43 64 43v140M26 210V95h76v115M50 118h28M50 146h28M50 174h28"/>
+    <path d="M-35 210h206"/>
+    <circle cx="64" cy="27" r="88"/>
+    <circle cx="64" cy="27" r="113" stroke-dasharray="6 12"/>
+  </g>
+</svg>

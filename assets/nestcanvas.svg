@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="260" viewBox="0 0 800 260" role="img" aria-label="NestCanvas Agent — AI home design canvas">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3b176f"/><stop offset="1" stop-color="#9333ea"/></linearGradient><pattern id="p" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#fff" stroke-opacity=".05"/></pattern></defs>
+  <rect width="800" height="260" rx="24" fill="url(#g)"/><rect width="800" height="260" rx="24" fill="url(#p)"/>
+  <g transform="translate(590 40)" fill="none" stroke="#f3e8ff" stroke-width="3"><rect x="0" y="0" width="166" height="172" rx="8" fill="#c084fc" fill-opacity=".12"/><path d="M0 72h98V0M98 46h68M55 72v100M55 121h111M20 98h19v40H20zM76 92h56v18H76zM121 137h28v24h-28z"/><circle cx="43" cy="36" r="16"/><path d="M29 36h28M43 22v28"/></g>
+  <rect x="48" y="42" width="118" height="30" rx="15" fill="#fff" fill-opacity=".11"/><text x="65" y="63" fill="#f3e8ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" letter-spacing="1.4">DESIGN</text>
+  <text x="48" y="132" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="44" font-weight="800">NestCanvas</text><text x="48" y="174" fill="#f1ddff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">An AI canvas for better homes</text><text x="48" y="211" fill="#d8b4fe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing=".5">FLOOR PLANS · LAYOUTS · BRIEFS · CONCEPTS</text>
+</svg>
